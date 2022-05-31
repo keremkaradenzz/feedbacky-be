@@ -11,11 +11,11 @@ Response :
 
 
 Req Param  :
- body : { 
+ `body : { 
      domain: string,
      feedback: string,
  }
- 
+ `
  
 Projeyi cloneladiktan sonra `.env` ayarlarini duzeltiniz. `PORT` ayarlarini giriniz.
 sonra `npm install` yapiniz. eger `nodemon` kullanmiyorsaniz
