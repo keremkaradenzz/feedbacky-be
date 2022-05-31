@@ -10,7 +10,7 @@ Response :
 | `trendyol.com`  | Test2         |
 
 
-Req Param  :
+Request Params  :
  `body : { 
      domain: string,
      feedback: string,
